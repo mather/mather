@@ -1,4 +1,8 @@
-### Hi there 👋
+
+## Stats
+
+[![mather's GitHub stats](https://github-readme-stats.vercel.app/api?username=mather&show_icons=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mather&langs_count=8&layout=compact&private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mather/mather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
